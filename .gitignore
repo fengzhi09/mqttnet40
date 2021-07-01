@@ -1,0 +1,12 @@
+.idea/
+/*/.idea/
+.vs/
+/*/.vs/
+/*/bin/
+/*/obj/
+/*/Release/
+/*/Debug/
+/packages/
+/*/packages/
+/*/*.*.*.user
+*.*.*.user
